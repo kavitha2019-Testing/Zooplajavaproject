@@ -48,5 +48,6 @@ public class SelectingDresses {
         Thread.sleep(10000);
         driver.findElement(By.xpath("//a[@title='Return to Home']")).click();
         System.out.println("Return home page selected");
+        System.out.println(" print changes");
     }
 }
